@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"8f945f81cd5b1ce0","type":"file","file":"Monstre/Alien/dossier_metamorphe.png","x":-820,"y":-520,"width":320,"height":400},
+		{"id":"4ad4fa2ee6b5b74a","type":"file","file":"Monstre/Alien/dossier_homme_gris.png","x":-1240,"y":-520,"width":380,"height":392},
+		{"id":"a01966cae116deee","type":"file","file":"Monstre/Créature fantastique/dossier_lycantrope.png","x":-136,"y":-528,"width":328,"height":400},
+		{"id":"ea5e246132602427","type":"file","file":"Monstre/Créature fantastique/dossier_wendigo.png","x":233,"y":-528,"width":362,"height":400},
+		{"id":"4c22b77996f531a9","type":"file","file":"Monstre/Démon/dossier_succube.png","x":920,"y":-528,"width":352,"height":400},
+		{"id":"6282be5e23610d46","type":"file","file":"Monstre/Démon/dossier_vampire.png","x":1365,"y":-528,"width":371,"height":400},
+		{"id":"e244c9eece7a839c","type":"file","file":"Monstre/fantome/dossier_banshee.png","x":2160,"y":-520,"width":388,"height":400}
+	],
+	"edges":[]
+}

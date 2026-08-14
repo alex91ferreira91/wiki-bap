@@ -131,9 +131,9 @@ Artefacts.
 
 Anomalies.
 
-Chaque phénomène est étudié, classé puis, si nécessaire, neutralisé.
+Chaque phénomène est étudié, classé puis, si nécessaire, neutralisé. [[archive.canvas]]
 
-Le système fonctionne.
+Le système fonctionne.  
 
 Les gouvernements constatent même une diminution progressive de certaines catégories de morts et de disparitions inexpliquées dans les régions où le BAP intervient.
 
