@@ -185,6 +185,21 @@ Mais il est désormais confronté à un nouveau problème :
 
 **il y a trop de créatures et trop peu d’agents.**
 
+
+
+# [[L'ORIGINE des Talents]]
+
+Les **Talents paranormaux** existent depuis bien avant La Brèche. Pendant des siècles, de rares individus appelés **Sensibles** ont manifesté des capacités inexplicables : voir les morts, ressentir les créatures ou percevoir certains événements à venir.
+
+Le BAP distingue deux origines : les **Nés**, qui possèdent naturellement un Talent, parfois transmis dans leur famille, et les **Marqués**, qui développent leurs capacités après avoir survécu à une rencontre ou une exposition surnaturelle.
+
+En **1970**, La Brèche bouleverse ce phénomène : les Sensibles deviennent beaucoup plus nombreux et leurs pouvoirs s’intensifient. Le BAP nomme cette amplification **l’Effet de Résonance**.
+
+La Brèche n’aurait donc pas créé les Talents : **elle aurait simplement rapproché l’humanité du paranormal, permettant à des capacités jusque-là enfouies de s’éveiller.**
+
+
+
+
 # L’ÈRE DES CHASSEURS
 
 Pour répondre à cette nouvelle réalité, le BAP autorise progressivement la création de **sociétés privées de chasseurs de créatures surnaturelles**. et veille à ce que ces entreprise respecte le [[RÈGLEMENT GÉNÉRAL DES ACTIVITÉS PARANORMALES]]
