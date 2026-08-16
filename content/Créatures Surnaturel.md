@@ -1,1 +1,0 @@
-![[dossier_banshee.png]]![[dossier_metamorphe.png]]![[dossier_homme_gris.png]]![[dossier_vampire.png]]![[dossier_succube.png]]![[dossier_lycantrope.png]]![[dossier_wendigo.png]]
