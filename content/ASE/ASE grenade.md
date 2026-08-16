@@ -1,0 +1,2 @@
+
+![[ASE grenade.jpg]]Projectile de dispersion spectrale conçu pour affecter les entités immatérielles dans une zone donnée. À l’explosion, elle libère une impulsion énergétique capable de perturber, blesser ou forcer à se matérialiser certains fantômes et esprits. Très efficace en espace clos, mais son rayon d’action impose une grande prudence.
