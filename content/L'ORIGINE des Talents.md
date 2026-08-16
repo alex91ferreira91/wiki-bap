@@ -39,7 +39,7 @@ Les plus anciennes traces de personnes possédant des dons remontent à plusieur
 
 Les archives racontent des histoires étranges.
 
-Une femme capable de parler aux morts dans un village breton.
+Une femme capable de parler aux morts.
 
 Un moine qui pouvait prédire les décès plusieurs jours avant qu'ils surviennent.
 
@@ -167,15 +167,6 @@ Et les Sensibles sont les premiers à le ressentir.
 
 Partout dans le monde, des personnes qui n'avaient jamais manifesté le moindre don commencent à développer des capacités.
 
-Des médiums entendent soudainement des centaines de voix.
-
-Des personnes sensibles voient des créatures qui n'existent pas encore dans notre réalité.
-
-Des individus commencent à avoir des visions.
-
-Certains développent des capacités physiques inhabituelles.
-
-D'autres commencent à entendre des voix provenant d'autres dimensions.
 
 ---
 
@@ -195,8 +186,6 @@ Des enfants voient des fantômes.
 
 Des policiers ressentent les créatures avant leurs apparitions.
 
-Des scientifiques commencent à avoir des visions.
-
 Des personnes ordinaires développent soudainement des capacités qu'elles ne comprennent pas.
 
 Le phénomène devient tellement important que le BAP doit créer une division entièrement consacrée à leur étude.
@@ -210,24 +199,6 @@ Son objectif :
 - étudier leur évolution ;
 - déterminer s'ils représentent un danger ;
 - apprendre à contrôler leurs capacités.
-
----
-
-# ⚠️ MAIS QUELQUE CHOSE INQUIÈTE LE BAP
-
-Les chercheurs découvrent progressivement une chose étrange.
-
-Les dons n'augmentent pas simplement en nombre.
-
-### Ils deviennent plus puissants.
-
-Un médium qui pouvait autrefois communiquer avec un seul mort peut désormais entendre plusieurs esprits.
-
-Une personne capable de voir les traces spectrales peut désormais voir les fantômes eux-mêmes.
-
-Une personne capable de ressentir les créatures peut commencer à ressentir leur présence à plusieurs kilomètres.
-
-Et certains Sensibles développent des capacités totalement inédites.
 
 ---
 
@@ -254,42 +225,3 @@ Le BAP donne à ce phénomène un nom :
 Plus une personne est sensible au paranormal...
 
 **plus La Brèche semble amplifier ses capacités.**
-
----
-
-# 🧩 ET C'EST LÀ QUE TON SYSTÈME DE TALENTS PREND TOUT SON SENS
-
-Les personnages joueurs pourraient donc être des **Sensibles modernes**.
-
-Ils possèdent des dons qui existaient déjà avant La Brèche.
-
-Mais dans le monde actuel, leurs capacités sont beaucoup plus fréquentes et puissantes.
-
-Un personnage peut être :
-
-**Médium**  
-→ don présent dans sa famille depuis plusieurs générations.
-
-**Sensibilité spectrale**  
-→ apparue après avoir survécu à une maison hantée.
-
-**Conseiller démoniaque**  
-→ don apparu après une possession.
-
-**Vision prémonitoire**  
-→ capacité naturelle qui existait avant La Brèche.
-
-**Perception de la Brèche**  
-→ capacité devenue possible uniquement parce que la Brèche existe.
-
-**Héritage vampirique**  
-→ conséquence d'une rencontre avec un vampire.
-
-**Contact extraterrestre**  
-→ conséquence d'une exposition à une entité extraterrestre.
-
-Et surtout, tu peux avoir un petit mystère intéressant :
-
-> **Les dons existaient bien avant 1970.**
-> 
-> **Mais personne ne sait réellement pourquoi.**
