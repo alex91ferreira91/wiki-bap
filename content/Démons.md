@@ -1,0 +1,1 @@
+![[dossier_vampire.jpg]]![[dossier_succube.jpg]]

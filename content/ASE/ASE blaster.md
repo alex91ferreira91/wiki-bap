@@ -1,1 +1,0 @@
-![[ASE blaster.jpg]]Arme expérimentale de forte puissance projetant une décharge concentrée d’énergie spectrale. Le Blaster peut provoquer une déstabilisation brutale d’une entité, interrompre certaines manifestations et infliger des dégâts importants aux créatures immatérielles. 

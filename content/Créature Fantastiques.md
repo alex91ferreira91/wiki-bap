@@ -1,0 +1,1 @@
+![[dossier_lycantrope.jpg]]![[dossier_chupacabra.jpg]]![[dossier_wendigo.jpg]]

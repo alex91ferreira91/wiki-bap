@@ -5,7 +5,7 @@ Son origine exacte demeure inconnue.
 
 Les plus anciennes archives authentifiées faisant directement référence au BAP remontent à **1840**, mais plusieurs documents internes évoquent des groupes similaires actifs plusieurs siècles auparavant.
 
-Des manuscrits médiévaux mentionnent notamment des ordres secrets chargés de traquer des[[Créatures Surnaturel]] , d’enfermer des objets maudits et de contenir certains phénomènes que les populations de l’époque attribuaient aux démons, aux esprits ou à la sorcellerie.
+Des manuscrits médiévaux mentionnent notamment des ordres secrets chargés de traquer des[[Créatures Surnaturels]] , d’enfermer des objets maudits et de contenir certains phénomènes que les populations de l’époque attribuaient aux démons, aux esprits ou à la sorcellerie.
 
 Certaines théories internes considèrent même que le BAP ne fut jamais réellement « fondé ».
 

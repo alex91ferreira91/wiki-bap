@@ -1,3 +1,0 @@
-![[ASE revolver.jpg]]
-
-Arme de poing robuste . Sa faible capacité est compensée par une puissance importante et une excellente fiabilité. Très apprécié comme arme secondaire par les chasseurs confrontés régulièrement à des manifestations spectrales.

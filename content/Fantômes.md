@@ -1,1 +1,1 @@
-[[dossier_banshee.png]]
+![[dossier_banshee.jpg]]
