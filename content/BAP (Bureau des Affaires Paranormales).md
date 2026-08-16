@@ -1,3 +1,4 @@
+[[yolo]]
 Le **Bureau des Affaires Paranormales**, plus communément appelé **BAP**, est l’une des plus anciennes organisations connues consacrées à la lutte contre les phénomènes surnaturels.
 
 Son origine exacte demeure inconnue.
