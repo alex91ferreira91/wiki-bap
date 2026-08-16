@@ -36,7 +36,7 @@ Depuis :
 
 ---
 
-# TALENTS LIÉS AUX DÉMONS
+# 😈 TALENTS LIÉS AUX DÉMONS
 
 ## 😈  LE CONSEILLER
 
@@ -74,7 +74,7 @@ Le joueur ne peut ignorer sa dette...
 
 ---
 
-#  TALENTS VAMPIRIQUES
+#  🧛TALENTS VAMPIRIQUES
 
 ## 🧛  LE SANG VOIT
 
@@ -111,7 +111,7 @@ Mais il possède également une faiblesse :
 
 ---
 
-#  TALENTS Lycanthropies
+#  🐺TALENTS Lycanthropies
 
 ## 🐺  L'INSTINCT DE LA BÊTE
 

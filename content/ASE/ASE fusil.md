@@ -1,1 +1,1 @@
-![[ASE fusil.jpg]]
+![[ASE fusil.jpg]]Arme principale des équipes spécialisées du BAP. Elle projette des charges spectrales capables d’endommager les entités normalement insensibles aux armes conventionnelles. Puissant et précis à moyenne portée, le fusil ASE est particulièrement adapté aux interventions contre fantômes, revenants et créatures déphasées.
