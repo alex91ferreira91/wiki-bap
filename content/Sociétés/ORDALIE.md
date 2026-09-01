@@ -6,8 +6,6 @@
 
 Selon les propres archives d’ORDALIE, l’Ordre existerait depuis près d’un millénaire. Ses membres affirment que leurs premiers fondateurs auraient découvert que certaines prières, reliques et rites religieux avaient un effet réel sur les créatures surnaturelles.
 
-
-
 ORDALIE serait ainsi née autour d’une idée extrêmement simple :
 
 > **L’homme n’a pas à craindre les ténèbres. Il a reçu l’autorité de les juger.**
