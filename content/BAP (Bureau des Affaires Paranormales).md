@@ -202,7 +202,7 @@ La Brèche n’aurait donc pas créé les Talents : **elle aurait simplement rap
 
 # L’ÈRE DES CHASSEURS
 
-Pour répondre à cette nouvelle réalité, le BAP autorise progressivement la création de **sociétés privées de chasseurs de créatures surnaturelles**. et veille à ce que ces entreprise respecte le [[RÈGLEMENT GÉNÉRAL DES ACTIVITÉS PARANORMALES]]
+Pour répondre à cette nouvelle réalité, le BAP autorise progressivement la création de **[[sociétés ]]privées de chasseurs de créatures surnaturelles**. et veille à ce que ces entreprise respecte le [[RÈGLEMENT GÉNÉRAL DES ACTIVITÉS PARANORMALES]]
 
 Ces entreprises peuvent être engagées par :
 
@@ -268,4 +268,4 @@ Pourtant, certaines sections des archives datant d’avant 1970 restent encore a
 
 Et une rumeur circule parmi les anciens agents :
 
-**le BAP connaissait l’existence de La Brèche bien avant son ouverture**
+**le BAP connaissait l’existence de La Brèche bien avant son ouverture.**
