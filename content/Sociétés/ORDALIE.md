@@ -1,5 +1,4 @@
 
-
 **Type :** Ordre religieux paranormal  
 **Origines :** inconnues, probablement médiévales  
 **Statut actuel :** Organisation de chasse agréée par le BAP, bénéficiant de nombreuses dérogations historiques  
